@@ -2,7 +2,7 @@
 
 ## Bash
 
-### Git URL Creator
+### [Git URL Creator](bash/pr.sh)
 
 Create a pull request URL from the current branch to a target branch.
 
